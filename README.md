@@ -149,6 +149,20 @@ Colocamos en el jsp la nueva lógica (Ahora si el id = 0 entonces no se logró l
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/86287a3e-6f72-4e70-9157-4604efc45da5)
 
+## Duración de una sesión
+Le asignamos un tiempo determinado a la sesión
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/9c394f71-d21f-478d-bb66-d55d25e2a0e4)
+
+## Validación si es que un usuario ya está logueado
+Cuando estamos logueados en facebook y luego abrimos otra pestaña y entramos nuevamente a facebook, nos redirije a nuestra sesión iniciada en facebook.
+
+Antes de validar el action, validamos el login em LoginServlet:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/44099ad8-5ad1-4c0b-a461-b0eb6bc7a115)
+
+Ocurre un problema con la memoria Caché de la información cuando retrocedo luego de cerrar sesión:
+
 
 
 
