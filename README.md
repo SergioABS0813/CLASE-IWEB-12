@@ -121,6 +121,7 @@ Luego de iniciar la sesión, vamos a guardar las credenciales del usuario para q
 
 
 
+
 ## Inicio de sesión con link (manejo de html con bootstrap)
 Podemos hacerle cambios con inspeccionar para luego copiar y pegarlos en el jsp
 
