@@ -129,9 +129,22 @@ Ahora luego de que ya exista el session (**Implementación NavBar con Credencial
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/e2d6a920-bc7e-4383-890e-aae5f4a5aa82)
 
+Ahora hacemos el **flujo de cierre de sesión**
+
+Creamos el botón de cierre de sesión:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/6ce55e6a-5780-42e5-a7dd-092329b3da7c)
+
+En el LoginServlet: (**La redirección puede ser a cualquier lado, de preferencia al loginform**)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/eb37f1e3-fe41-446a-a89e-6b657d45e1a4)
 
 
+## Funcionamiento de las "Cookies"
 
+PC (Cliente )------> Servidor (entre ambos hay un identificador para la sesión y ese es el cookie)
+
+Cualquiera de los dos puede borrar la cookie. El primero cuando cierre sesión o el segundo cuando se reinicia (el servidor). 
 
 ## Inicio de sesión con link (manejo de html con bootstrap)
 Podemos hacerle cambios con inspeccionar para luego copiar y pegarlos en el jsp
