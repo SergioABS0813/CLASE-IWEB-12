@@ -29,6 +29,8 @@ Queremos que aparezca un mensaje de "trabajo creado correctamente", sin embargo,
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/4c6f7cff-538f-45de-9dbf-724072b2ded8)
 
+Ahora no mandaremos por arriba sino por Session para que no pase dicho error con el mensaje único:
+
 
 
 
