@@ -46,6 +46,8 @@ Recomendación del Profe: **Crear un Servlet para el login**
 
 Creamos Servlet y que en GET (obvio) nos dirija a un jsp de login:
 
+**-------------------- A partir de este punto e manejo de HTML empieza --------------------**
+
 -Buscamos en bootstrap:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/12c73064-0ad8-4ebc-9e1d-bc530dca95af)
@@ -58,6 +60,41 @@ Creamos Servlet y que en GET (obvio) nos dirija a un jsp de login:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/effab603-b676-4cca-a2cb-dbf304530fdb)
 
+Luego hacemos los cambios necesarios para que el login quede bien.
+
+Entre ellos colocar nuestro propio footer ya que el que copiamos se conecta al servidor de bootstrap:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/23c40d17-ade4-4d59-b49a-89579d035210)
+
+Notamos que nos aparece feo y no como lo copiamos: (**ver clase de IWEB 12 51:30**)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/22cc9de6-be45-44f7-881e-a594b1476720)
+
+Inspeccionamos:
+
+Copiamos el Style porque es necesario. --> todavía no está como queremos
+
+Copiamos el link sign-in.css, para eso primero tenemos que tener el archivo css empleado por bootstrap:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/6e6d4e61-c9dd-4577-b111-efe74f93687b)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/a8d9ba8d-21e3-4588-ac56-72515ae5acff)
+
+Movemos a la carpeta css en el proyecto: 
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/48514f17-d641-4c2f-8a1d-0f2721edc4aa)
+
+El orden tal cual está en bootstrap tenemos que seguir en nuestro jsp en cuanto al link:
+
+Además, el **link del css en el jsp debe estar sí o sí, si no, no hay enlace con el css sing-in (Copiamos y pegamos de bootstrap)**
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/a7e6ca2d-ad46-4955-b1d5-9dbcd2285159)
+
+Luego de copiarlo, le hacemos la modificación:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/aa613e3d-0df1-4d40-be7d-676359b8f868)
+
+**-------------------- A partir de este punto e manejo de HTML finaliza --------------------**
 
 
 
