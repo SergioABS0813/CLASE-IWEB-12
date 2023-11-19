@@ -44,3 +44,34 @@ Para ello **se coloca un parámetro para indicar que el usuario esté logueado**
 
 Recomendación del Profe: **Crear un Servlet para el login**
 
+
+
+
+
+
+
+
+
+
+
+## Inicio de sesión con link (manejo de html con bootstrap)
+Podemos hacerle cambios con inspeccionar para luego copiar y pegarlos en el jsp
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/7fda852f-34d4-432f-bfb2-53429816865d)
+
+Si nos sale errores cuando colocamos palabras que lleven tilde **colocamos el pageEncoding utf-8** (cabecera hardcodeada):
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/72d6ff20-a7ef-4f3e-b2ed-06c615adb84e)
+
+
+
+
+
+
+
+
+
+
+
+
+
