@@ -94,15 +94,28 @@ Luego de copiarlo, le hacemos la modificación:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/aa613e3d-0df1-4d40-be7d-676359b8f868)
 
+OJO: El type email valida que siempre esté en "@"
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/568ba712-8fc0-4993-87e0-f2568fdba090)
+
+
 **-------------------- A partir de este punto e manejo de HTML finaliza --------------------**
 
 Recordamos los parámetros necesarios para enviar por POST al Servlet:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/281527a6-be01-4fa7-b291-6a9240fc3cee)
 
-Recordar que no se debe dejar el password en base de datos como texto plano:
+**Recordar que no se debe dejar el password en base de datos como texto plano:**
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/b6b9fc4b-908d-42fc-92f4-e23ed3c6061a)
+
+Hacemos el método para que valide al usuario y contraseña:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/51da5302-c410-4560-9376-837dda6bb990)
+
+En LoginServlet:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/925d66c2-004b-4760-9f14-aeea378e9aea)
 
 
 ## Inicio de sesión con link (manejo de html con bootstrap)
