@@ -119,6 +119,11 @@ En LoginServlet:
 
 Luego de iniciar la sesión, vamos a guardar las credenciales del usuario para que puedan ser vistas o usadas en la página web como en google, facebook, etc:
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/f2f06354-237b-4e8c-b3f7-2be50f8320a6)
+
+En el login jsp en caso exista error:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/77be8bf1-dab2-4514-bd23-8a44a2edcaa6)
 
 
 
