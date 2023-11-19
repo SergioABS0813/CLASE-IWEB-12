@@ -96,6 +96,13 @@ Luego de copiarlo, le hacemos la modificación:
 
 **-------------------- A partir de este punto e manejo de HTML finaliza --------------------**
 
+Recordamos los parámetros necesarios para enviar por POST al Servlet:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/281527a6-be01-4fa7-b291-6a9240fc3cee)
+
+Recordar que no se debe dejar el password en base de datos como texto plano:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/b6b9fc4b-908d-42fc-92f4-e23ed3c6061a)
 
 
 ## Inicio de sesión con link (manejo de html con bootstrap)
