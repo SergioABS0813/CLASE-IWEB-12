@@ -31,6 +31,16 @@ Queremos que aparezca un mensaje de "trabajo creado correctamente", sin embargo,
 
 Ahora no mandaremos por arriba sino por Session para que no pase dicho error con el mensaje único:
 
+Ahora en JobServlet sería:
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/d01025f4-57ca-4233-ab66-925aff3f8568)
 
+Luego vamos al jsp de listaJob para que aparezaca el mensaje de de "trabajo creado correctamente" y luego vemos que le damos a refrescar y el mensaje desaparece por el remove hecho al último:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/e247e0b2-2ed9-415e-be6e-e2f95a500f69)
+
+## Sesión para logueo de usuarios
+Para ello **se coloca un parámetro para indicar que el usuario esté logueado** porque no siempre esatrá activo cuando **cierre sesión**.
+
+Recomendación del Profe: **Crear un Servlet para el login**
 
