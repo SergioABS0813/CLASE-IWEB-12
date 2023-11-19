@@ -139,6 +139,18 @@ En el LoginServlet: (**La redirección puede ser a cualquier lado, de preferenci
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/eb37f1e3-fe41-446a-a89e-6b657d45e1a4)
 
+Si bien hemos trabajado con el session, podemos hacerlo de una manera más legible: (**Usando UseBean**)
+
+Se coloca el class = "Employee" para que siempre exista y no tenga un valor de nulo el usuario logueado (Cuando no hay usuario logueado)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/d4f28eee-36d3-40d6-ba72-301d829578e5)
+
+Colocamos en el jsp la nueva lógica (Ahora si el id = 0 entonces no se logró loguear, si es diferente de cero entonces se logueó)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/86287a3e-6f72-4e70-9157-4604efc45da5)
+
+
+
 
 ## Funcionamiento de las "Cookies"
 
