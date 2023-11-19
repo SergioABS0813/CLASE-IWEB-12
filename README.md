@@ -44,12 +44,19 @@ Para ello **se coloca un parámetro para indicar que el usuario esté logueado**
 
 Recomendación del Profe: **Crear un Servlet para el login**
 
+Creamos Servlet y que en GET (obvio) nos dirija a un jsp de login:
 
+-Buscamos en bootstrap:
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/12c73064-0ad8-4ebc-9e1d-bc530dca95af)
 
+-Copiamos el body y luego pegamos en el body del jsp de login:
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/9fbf0937-7000-4318-804b-34000d771359)
 
+(OJO **incluir la cabecera de bootstrap siempre**) **La dirección va a depender de dónde esté situado el jsp (ver video IWEB clase 12 48:50)**
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/effab603-b676-4cca-a2cb-dbf304530fdb)
 
 
 
