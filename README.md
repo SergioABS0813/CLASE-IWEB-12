@@ -125,6 +125,12 @@ En el login jsp en caso exista error:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/77be8bf1-dab2-4514-bd23-8a44a2edcaa6)
 
+Ahora luego de que ya exista el session (**Implementación NavBar con Credenciales**):
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/e2d6a920-bc7e-4383-890e-aae5f4a5aa82)
+
+
+
 
 
 ## Inicio de sesión con link (manejo de html con bootstrap)
