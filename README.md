@@ -117,6 +117,9 @@ En LoginServlet:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/925d66c2-004b-4760-9f14-aeea378e9aea)
 
+Luego de iniciar la sesión, vamos a guardar las credenciales del usuario para que puedan ser vistas o usadas en la página web como en google, facebook, etc:
+
+
 
 ## Inicio de sesión con link (manejo de html con bootstrap)
 Podemos hacerle cambios con inspeccionar para luego copiar y pegarlos en el jsp
