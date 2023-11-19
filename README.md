@@ -165,6 +165,11 @@ Ocurre un problema con la memoria Caché de la información cuando retrocedo lue
 
 
 
+## 43:51
+
+
+
+
 
 ## Funcionamiento de las "Cookies"
 
