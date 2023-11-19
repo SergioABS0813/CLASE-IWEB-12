@@ -121,11 +121,11 @@ Luego de iniciar la sesión, vamos a guardar las credenciales del usuario para q
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/f2f06354-237b-4e8c-b3f7-2be50f8320a6)
 
-En el login jsp en caso exista error:
+En el login jsp en caso exista error en el logueo de usuario:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/77be8bf1-dab2-4514-bd23-8a44a2edcaa6)
 
-Ahora luego de que ya exista el session (**Implementación NavBar con Credenciales**):
+Ahora luego de que ya exista el session (**Implementación NavBar con Credenciales**): (si se loguea el usuario, en el navbar se podrá visualizar el nombre del usuario)
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/e2d6a920-bc7e-4383-890e-aae5f4a5aa82)
 
