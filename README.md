@@ -2,7 +2,7 @@
 Session, Cifrado de datos y DTO
 
 
-## Qués es una cookie?
+## Qué es una cookie?
 Con session nosotros podemos crear cookies, estas guardan información y en JAVA se llaman JSESSIONID.
 
 El servidor es el que reparte las cookies (proveedor de Cookies).
