@@ -165,8 +165,30 @@ Ocurre un problema con la memoria Caché de la información cuando retrocedo lue
 
 
 
-## 43:51
+## Ejercicio: Solo los logueados podrán editar y borrar
 
+En la lista de empleados
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/eb100f39-8cf8-4ce2-980f-c7e0759ab0bd)
+
+Para que no se descuadre:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/ad083e9b-8c6f-4a8e-8b5c-805230dd0a99)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/72969553-6976-4e7f-b668-58bec7016482)
+
+Si cerramos sesión pero antes de ello copiamos el url del editar usuario, luego de cerrar sesión pego esa url, me redirije al editar usuario (SE TIENE QUE VALIDAR LAS ACCIONES SOLO PERMITIDAS CUANDO SE LOGUEE)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/9a89fd3f-64d6-4381-863d-916a7ab1708a)
+
+Dicha validación se hace en el Servlet (En este caso EmployeeServlet)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/6e6615e0-46f0-402f-b5f6-3aa1299b5f49)
+
+## HASH CONTRASEÑA
+En base de datos se guardan las contraseñas únicamente de forma hasheada.
+
+El hash no es cifrado, sino que es una función Matemática en donde entra una determinada 
 
 
 
