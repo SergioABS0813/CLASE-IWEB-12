@@ -190,6 +190,13 @@ En base de datos se guardan las contraseñas únicamente de forma hasheada.
 
 El hash no es cifrado, sino que es una función Matemática en donde entra una determinada 
 
+HASH MD5: (coloco algo de entrada) ------> 32 bytes
+
+HASH SHA128 (coloco algo de entrada) -----> 128 bytes
+
+HASH 256: (coloco algo de entrada) -----> 256 bytes
+
+
 
 
 
