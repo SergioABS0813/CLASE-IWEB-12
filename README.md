@@ -225,9 +225,13 @@ Mandamos desde el Servlet al JSP:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/95474613-89ee-4cd4-ae99-2ef1913ffdd8)
 
-
 Recepcionamos con el Usebean en el jsp de Stats
+
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/5eae8601-31e8-4331-9382-cab60cc8ef3f)
+
+Hacemos las modificaciones en JSP Stats:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/de5c71bd-d918-422b-a510-3242d88e4ec3)
 
 
 
