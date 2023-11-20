@@ -196,7 +196,7 @@ HASH SHA128 (coloco algo de entrada) -----> 128 bytes
 
 HASH 256: (coloco algo de entrada) -----> 256 bytes
 
-
+Del Hash a la contraseña **NO SE PUEDE VOLVER PORQUE HASH NO ES UNA ENCRIPTACIÓN** 
 
 
 
