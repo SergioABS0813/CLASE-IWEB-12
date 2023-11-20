@@ -198,6 +198,37 @@ HASH 256: (coloco algo de entrada) -----> 256 bytes
 
 Del Hash a la contraseña **NO SE PUEDE VOLVER PORQUE HASH NO ES UNA ENCRIPTACIÓN** 
 
+Entonces, para validar necesitaremos de usar el Hash para comparar que concuerde con el password_hash en base de datos y pueda loguearse el usuario.
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/3d16cdfa-2f5b-4d1d-9b37-0d6b39910cc4)
+
+## DTO (Data Transfer Object)
+
+Uso de SQL con count (clase IWEB 12 2:20)
+
+DTO sirve para modelar la tabla de un Query realizado ya que a veces cuando hacemos Inner Join o más cosas **ya no podremos emplear Beans para modelar dichos Querys**, por eso usamos los DTO. Por lo que DTO no sigue el formato de una tabla Query.
+
+Observamos que a partir de un Query haremos un DTO:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/384a346e-0696-4498-8dcc-ed53292471b0)
+
+**EJERCICIO**
+Implementamos en el navbar una opción para estadísticas (StatServlet):
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/60940a04-c504-417e-bdbf-41053d182a58)
+
+Ahora queremos implementar StatServlet pero necesitamos de métodos de Daos. (Pongamos el método en los Daos que más se asemejen al DTO). Nos sirve para listar, en este caso, las resultados del Query.
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/e63b1a28-bef9-4bca-9745-468c4470683d)
+
+Mandamos desde el Servlet al JSP:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/95474613-89ee-4cd4-ae99-2ef1913ffdd8)
+
+
+Recepcionamos con el Usebean en el jsp de Stats
+![image](https://github.com/SergioABS0813/CLASE-IWEB-12/assets/134556600/5eae8601-31e8-4331-9382-cab60cc8ef3f)
+
 
 
 ## Funcionamiento de las "Cookies"
